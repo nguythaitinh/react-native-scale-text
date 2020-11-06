@@ -1,6 +1,6 @@
 {
   "name": "react-native-auto-scale-text",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -28,5 +28,17 @@
   "description": "React Native library that supports auto scale font based on container for Android and iOS",
   "main": "index.js",
   "author": "Nguyen Thai Tinh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:nguythaitinh/react-native-scale-text.git"
+    },
+      "homepage": "https://github.com/nguythaitinh/react-native-scale-text/tree/master",
+       "keywords": [
+          "React Native",
+          "iOS",
+          "Android",
+          "Text",
+          "Scale"
+        ]
 }

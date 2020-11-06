@@ -1,4 +1,4 @@
-# react-native-multiple-choice-picker
+# react-native-auto-scale-text
 
 A cross-platform (iOS / Android) auto scale text component for React Native.
 
@@ -13,7 +13,6 @@ Or
 
 `yarn add react-native-auto-scale-text`
 
-![example](https://i.ibb.co/YPwMPd7/7a45c1d36643981dc152.jpg)
 
 ### Basic Usage
 
