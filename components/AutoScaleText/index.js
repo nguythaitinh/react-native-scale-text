@@ -3,8 +3,8 @@ import { Text, Platform } from 'react-native';
 
 type Props = {
 	style?: any,
-	maxLines: number,
-	maxFontSize: number,
+	maxLines?: number,
+	maxFontSize?: number,
 };
 
 export default function AutoScaleText(

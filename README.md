@@ -16,7 +16,7 @@ Or
 
 ### Basic Usage
 
-![example](https://i.ibb.co/YPwMPd7/7a45c1d36643981dc152.jpg)
+![example](https://i.ibb.co/k00fsrt/7a45c1d36643981dc152.jpg)
 ```js
 <AutoScaleText
 		style={{width: 100}}
@@ -26,13 +26,13 @@ Or
 	</AutoScaleText>
 ```
 
-![example](https://i.ibb.co/xKbbDcH/6db2d02477b489ead0a5.jpg)
+![example](https://i.ibb.co/nb101f6/6db2d02477b489ead0a5.jpg)
 
 ### Props
 
 | Name                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Details                  |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| `maxLines`                                 | Maximum number of lines before rescaling                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **required**<br>array: [] |
-| `maxFontSize`                                         | Maximum font size                                                                                                                                                            | number: 0  |
-| `style`                                   | (Optional) text style                                                                                                                                                                                                                                                                                                    | function: () => {}                   |
+| `maxLines`                                 | (Optional) Maximum number of lines before rescaling                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **required**<br>array: [] |
+| `maxFontSize`                                         | (Optional) Maximum font size                                                                                                                                                            | number: 0  |
+| `style`                                   | (Optional) Text style                                                                                                                                                                                                                                                                                                    | function: () => {}                   |
 |                |
